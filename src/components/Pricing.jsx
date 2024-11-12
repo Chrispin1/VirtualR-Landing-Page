@@ -30,6 +30,12 @@ const Pricing = () => {
                   </li>
                 ))}
               </ul>
+              <a
+                href="#"
+                className=" inline-flex justify-center text-center items-center w-full h-12 p-5 mt-20 tracking-tight border border-orange-900 rounded-lg hover:bg-orange-900 transition text-lg"
+              >
+                Subscribe
+              </a>
             </div>
           </div>
         ))}
